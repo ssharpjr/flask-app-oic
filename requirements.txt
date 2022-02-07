@@ -1,0 +1,4 @@
+cx-Oracle
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
