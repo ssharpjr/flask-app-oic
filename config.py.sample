@@ -1,5 +1,5 @@
 class Config:
-    SQLALCHEMY_DATABASE_URI = 'oracle+cx_oracle://iqms:iqtest@iqtest'
+    SQLALCHEMY_DATABASE_URI = 'oracle+cx_oracle://user:password@instance'
 
     @staticmethod
     def init_app(app):
